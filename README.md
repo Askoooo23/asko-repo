@@ -1,0 +1,1 @@
+learning git, docker, tele-bots, linux, etc
