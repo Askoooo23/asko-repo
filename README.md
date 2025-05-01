@@ -1,1 +1,1 @@
-learning git, docker, tele-bots, linux, etc
+learning git, docker, tele-bots, linux, CI/CD, Net, other DevOps stuff
